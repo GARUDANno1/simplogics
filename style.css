@@ -1,7 +1,7 @@
 .mainscreen{
     height:1000px;
     border:1px hidden black;
-    background-image:url("./g1.jpg");
+    background-image:url("./g5.jpg");
     background-size: cover;
     border-radius:1cm;
     
@@ -10,6 +10,7 @@
     background-image:url("./g1.jpg");
     background-repeat:no-repeat; 
     background-size:cover;
+    font-family:monospace;
     background-color: rgb(142, 187, 255);
     border:3px solid rgb(255, 255, 255);
     height:75px;
@@ -44,15 +45,16 @@
     background-color:black;
     background-repeat: no-repeat;
     background-size:cover;
+    font-family:monospace;
     width:25%;
     height:100%;
     color:azure;
     text-align:center;
     float:left;
-    border:3px solid rgb(255, 255, 255);
+    border:3px dashed rgb(255, 255, 255);
     border-radius:1cm;
     padding:10px;
-    background-image:url("./g1.jpg");
+    background-image:url("./g5.jpg");
 }
 
 .sidebuttons{ 
@@ -66,12 +68,22 @@
 .content{
     background-color:rgb(218, 227, 252);
     background-image:url("./g1.jpg");
-    border:2px solid rgb(248, 250, 252);
-    border-radius:1cm;
+    background-repeat: no-repeat;
+    background-size:cover;
+    border:2px  rgb(248, 250, 252);
+    width:66%;
     overflow:auto;
     float:left;
     color:blanchedalmond;
     
     
 }
+ 
+#dp{
+   border:1px solid white;
+   margin-left:20px;
+}
+    
+
+
 
