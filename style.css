@@ -1,0 +1,77 @@
+.mainscreen{
+    height:1000px;
+    border:1px hidden black;
+    background-image:url("./g1.jpg");
+    background-size: cover;
+    border-radius:1cm;
+    
+}
+    .titlebar {
+    background-image:url("./g1.jpg");
+    background-repeat:no-repeat; 
+    background-size:cover;
+    background-color: rgb(142, 187, 255);
+    border:3px solid rgb(255, 255, 255);
+    height:75px;
+    color:aliceblue;
+    border-radius:1cm;
+    padding:10px;
+}
+
+
+.logo{
+    width:60px;
+    height:60px;
+    border-radius:10cm;
+    margin-top:10px;
+    margin-left:20px;
+    margin-bottom:10px; 
+    float:left;
+   
+    
+   
+}
+
+.heading{
+    float:left;
+    text-align: center;
+    margin-left:30%;
+    margin-top:25px;
+    font-size:x-large;
+    position: absolute;
+}
+.sidemenu{
+    background-color:black;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:25%;
+    height:100%;
+    color:azure;
+    text-align:center;
+    float:left;
+    border:3px solid rgb(255, 255, 255);
+    border-radius:1cm;
+    padding:10px;
+    background-image:url("./g1.jpg");
+}
+
+.sidebuttons{ 
+    width:90%;
+    background-color:rgb(135, 241, 227);
+    text-align:center;
+    border-radius:0.5cm;
+    border:2px inset rgb(228, 238, 243)
+
+}
+.content{
+    background-color:rgb(218, 227, 252);
+    background-image:url("./g1.jpg");
+    border:2px solid rgb(248, 250, 252);
+    border-radius:1cm;
+    overflow:auto;
+    float:left;
+    color:blanchedalmond;
+    
+    
+}
+
