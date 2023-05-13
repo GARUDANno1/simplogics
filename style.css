@@ -7,7 +7,7 @@
     
 }
     .titlebar {
-    background-image:url("./g1.jpg");
+    background-image:url("./g5.jpg");
     background-repeat:no-repeat; 
     background-size:cover;
     font-family:monospace;
@@ -67,7 +67,7 @@
 }
 .content{
     background-color:rgb(218, 227, 252);
-    background-image:url("./g1.jpg");
+    background-image:url("./g4.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     border:2px  rgb(248, 250, 252);
